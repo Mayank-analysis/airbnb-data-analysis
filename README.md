@@ -21,7 +21,7 @@ This project analyzes Airbnb dataset to understand pricing trends, booking patte
 - Interactive filters for better analysis  
 
 ## 📷 Dashboard Preview
-![Dashboard](airbnb-dashboard.png)
+![Dashboard](https://github.com/Mayank-analysis/airbnb-data-analysis/blob/main/airbnb-dashboard.png.jpeg)
 
 ## 🔗 Project File
 Download Power BI file (https://github.com/Mayank-analysis/airbnb-data-analysis/blob/main/Airbnb%20project.pbit)
