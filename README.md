@@ -24,7 +24,7 @@ This project analyzes Airbnb dataset to understand pricing trends, booking patte
 ![Dashboard](airbnb-dashboard.png)
 
 ## 🔗 Project File
-Power BI file is available in this repository.
+Download Power BI file (https://github.com/Mayank-analysis/airbnb-data-analysis/blob/main/Airbnb%20project.pbit)
 
 ## 🎯 Conclusion
 This project helps in understanding Airbnb market trends and provides insights into pricing strategy, demand patterns, and customer preferences.
